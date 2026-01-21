@@ -23,10 +23,15 @@ streamlit run app.py
 
 📁 Project Structure
 AirQuality_App/
+
 ├── app.py
+
 ├── lstm_model.h5
+
 ├── scaler.pkl
+
 ├── project_final_dataset_obtained.xlsx
+
 ├── README.md
 
 📊 Data Details
