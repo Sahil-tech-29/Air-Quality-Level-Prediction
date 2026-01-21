@@ -21,7 +21,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-📁 Project Structure
+## 📁 Project Structure
 AirQuality_App/
 
 ├── app.py
@@ -34,7 +34,7 @@ AirQuality_App/
 
 ├── README.md
 
-📊 Data Details
+## 📊 Data Details
 
 Location: New Delhi
 
@@ -44,7 +44,7 @@ Target Variable: AQI
 
 Model: LSTM (Time Series Forecasting)
 
-🚀 Output
+## 🚀 Output
 
 7-day AQI forecast
 
@@ -54,7 +54,7 @@ Health advisory
 
 Downloadable forecast report
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Sahil
 B.Tech CSE | AI & ML
