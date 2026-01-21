@@ -19,7 +19,7 @@ An LSTM-based time series forecasting system to predict **7-day AQI levels** for
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 
 📁 Project Structure
 AirQuality_App/
@@ -51,10 +51,5 @@ Downloadable forecast report
 
 👨‍💻 Author
 
-Sahil Bhardwaj
+Sahil
 B.Tech CSE | AI & ML
-
-
-Now **save the file** (`Ctrl + S`).
-
----
